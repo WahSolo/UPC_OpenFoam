@@ -1,3 +1,3 @@
 # UPC_OpenFoam
-OpenFoamLearn
-Learn how to use Github
+OpenFoamLearn;
+Learn how to use Github;
